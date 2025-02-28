@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_scan"
+        android:icon="@drawable/ic_scan"
+        android:title="QR Okut" />
+    <item
+        android:id="@+id/nav_generate"
+        android:icon="@drawable/ic_generate"
+        android:title="QR Oluştur" />
+</menu>
